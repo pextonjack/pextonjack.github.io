@@ -1,3 +1,19 @@
+# Delta Bravo
+Current build 1.0
+Developed in Unity
+
+Copyright Jack Pexton 2022
+
+## Privacy Policy:
+
+No data is collected of any kind
+
+## Credits:
+
+"Tower Crane" (https://skfb.ly/oxA9K) by CHAMOD is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Apocalypse Scene. Shipping container port" (https://skfb.ly/otspY) by vork0n is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
 # Desolation
 
 This game is currently in Alpha testing, current build 1.0
