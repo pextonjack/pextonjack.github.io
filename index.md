@@ -1,8 +1,17 @@
+# SkySense Weather
+Current build 1.0
+
+Copyright Jack Pexton 2023
+
+## Privacy Policy:
+
+No data is collected of any kind
+
 # Delta Bravo
 Current build 1.0
 Developed in Unity
 
-Copyright Jack Pexton 2022
+Copyright Jack Pexton 2023
 
 ## Privacy Policy:
 
