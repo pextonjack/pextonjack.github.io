@@ -1,3 +1,6 @@
+# Support Information:
+## Email: pextonjack@gmail.com
+
 # SkySense Weather
 Current build 1.0
 
