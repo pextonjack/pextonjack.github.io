@@ -16,7 +16,7 @@ We respect your privacy and are committed to protecting your personal informatio
 
 Our game integrates with ironSource, which may collect and process data such as:
 
-- Device identifiers (like IDFA/GAID)
+- Device identifiers (like IDFA), but only if explicit consent is given
 - IP address
 - Interaction data (such as ad impressions and clicks)
 
